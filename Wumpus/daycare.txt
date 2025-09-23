@@ -1,0 +1,21 @@
+10
+1 2 6 10
+Welcome to the Lotso's fun daycare.
+2 1 3 7
+There is some throw up in the corner. Who did it?
+3 2 4 8
+Children's sketches are on the walls.
+4 3 5 9
+Apple Juice is littered on the floor.
+5 4 6 10
+You almost stepped on a Lego brick, be careful.
+6 1 5 7
+A couple of toys stare at you from under a pile of stuffed animals.
+7 2 6 8
+You find Monopoly money on the floor.
+8 3 7 9
+The ceiling is very low and you have to stoop.
+9 4 8 10
+You step on a slippery spot, oh that's so nasty.
+10 1 5 9
+You get majorly creeped out.
